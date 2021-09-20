@@ -2,5 +2,8 @@
 Simple Encryption and Decryption C# Program
 
 ## Screenshots
-Encryption.png
-Decryption.png
+![](Encryption.png)
+Encryption mode
+
+![](Decryption.png)
+Decryption mode
